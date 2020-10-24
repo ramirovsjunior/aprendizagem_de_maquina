@@ -1,1 +1,2 @@
-# aprendizagem_de_maquina
+# Disciplina de Aprendizagem de Máquina
+## Professor Dr. Ivanovitch - PPgEEC
